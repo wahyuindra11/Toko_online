@@ -1,0 +1,20 @@
+.bg-secondary {
+    background-color: #166ddf!important;
+    }
+    
+    .copyright {
+    background-color: #4089d1;
+    }
+    
+    .bg-primary {
+    background-color: #4089d1!important;
+    }
+    
+    nav{
+        font-family: 'Times New Roman', Times, serif;
+    font-weight: 7666;
+    }
+    
+    .img-card{ height: 18vw; object-fit: cover;
+    }
+    
