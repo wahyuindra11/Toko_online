@@ -1,0 +1,7 @@
+![1](https://github.com/wahyuindra11/Toko_online/assets/117348907/6b85bc30-0e28-465a-a0d2-c0b6d12c33e1)
+![2](https://github.com/wahyuindra11/Toko_online/assets/117348907/4176e827-9cae-4967-a1f6-8bd5f8f9fe47)
+![3](https://github.com/wahyuindra11/Toko_online/assets/117348907/fd480cb9-b300-46d5-b153-9a8f073610bf)
+![4](https://github.com/wahyuindra11/Toko_online/assets/117348907/dd7900c4-24ff-4f9a-916d-eaa8e3733692)
+![5](https://github.com/wahyuindra11/Toko_online/assets/117348907/2ecd4261-8c94-4fd2-b2f8-7e801c639310)
+![6](https://github.com/wahyuindra11/Toko_online/assets/117348907/8511229e-f841-47d4-b4ed-41f7469df597)
+![7](https://github.com/wahyuindra11/Toko_online/assets/117348907/27371abd-eb43-4c02-b7c7-da8e0b9a7522)
